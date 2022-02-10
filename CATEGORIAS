@@ -1,4 +1,13 @@
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]A-Z / 0-9[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/kXCJxMS/alfabeto-on.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON/main/ALFABETO</externallink>
+<fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
+<info>[COLOR green]|[/COLOR]- Lista dos Filmes  em ordem alfabetica e numerica -[COLOR red]|[/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]TODOS[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://i.ibb.co/2d15Dyx/TODOS-ON.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON/main/TODOS</externallink>

@@ -1,9 +1,9 @@
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]AÇÃO[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
-<thumbnail>https://images2.imgbox.com/47/a6/X0uNLe0x_o.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON/main/ACAO</externallink>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]TODOS[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/2d15Dyx/TODOS-ON.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON/main/TODOS</externallink>
 <fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
-<info>[COLOR green]|[/COLOR]- Emoção até o Fim... -[COLOR red]|[/COLOR]</info>
+<info>[COLOR green]|[/COLOR]- Lista Completa dos Filmes -[COLOR red]|[/COLOR]</info>
 </channel> 
 </channels>
 
@@ -22,5 +22,14 @@
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON/main/STREAMINGS</externallink>
 <fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
 <info>[COLOR green]|[/COLOR]- Assista por plataforma -[COLOR red]|[/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]AÇÃO[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://images2.imgbox.com/47/a6/X0uNLe0x_o.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON/main/ACAO</externallink>
+<fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
+<info>[COLOR green]|[/COLOR]- Emoção até o Fim... -[COLOR red]|[/COLOR]</info>
 </channel> 
 </channels>

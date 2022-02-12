@@ -6,3 +6,12 @@
 <info>[COLOR green]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - É uma plataforma exclusiva para clientes Claro assistirem aos lançamentos do cinema, séries, conteúdos gratuitos, infantil, programas de TV, esportes, notícias ao vivo e muito mais! E o melhor, de qualquer tela e sempre que quiser! -[COLOR yellow]|[/COLOR]</info>
 </channel> 
 </channels>
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]TELECINE[/COLOR][COLOR green] || [/COLOR][COLOR white]STREAMINGS [/COLOR]</name>
+<thumbnail>https://i.ibb.co/XfHjjvg/telecine.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-STREAMINGS/main/TELECINE</externallink>
+<fanart>https://i.ibb.co/zHQqXbh/telecine-fanart.jpg</fanart>
+<info>[COLOR green]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - Telecine é uma rede de canais, sendo focado em filmes que saíram do cinema. -[COLOR yellow]|[/COLOR]</info>
+</channel> 
+</channels>

@@ -6,3 +6,12 @@
 <info>[COLOR green]|[/COLOR]- Lista dos Filmes de 0 a 9 -[COLOR red]|[/COLOR]</info>
 </channel> 
 </channels>
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Q-R[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/wrFn7L1/q-r-on.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-ALFABETO/main/Q-R</externallink>
+<fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
+<info>[COLOR green]|[/COLOR]- Lista dos Filmes de Q a R -[COLOR red]|[/COLOR]</info>
+</channel> 
+</channels>

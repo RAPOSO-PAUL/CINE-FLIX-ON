@@ -1,4 +1,13 @@
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]DISNEY PLUS[/COLOR][COLOR green] || [/COLOR][COLOR white]STREAMINGS [/COLOR]</name>
+<thumbnail>https://i.ibb.co/dghvWBM/disney-plus.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-STREAMINGS/main/DISNEY-PLUS</externallink>
+<fanart>https://i.ibb.co/crMY7j2/disney-plus-fanart.jpg</fanart>
+<info>[COLOR green]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - Disney, Pixar, Marvel, Star Wars e National Geographic em um só lugar. -[COLOR yellow]|[/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]NOW[/COLOR][COLOR green] || [/COLOR][COLOR white]STREAMINGS [/COLOR]</name>
 <thumbnail>https://i.ibb.co/6vXXFwp/now.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-STREAMINGS/main/NOW</externallink>

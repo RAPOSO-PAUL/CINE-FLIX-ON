@@ -6,3 +6,12 @@
 <info>[COLOR green]|[/COLOR]- Meu nome é James, James Bond! -[COLOR red]|[/COLOR]</info>
 </channel> 
 </channels>
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]A ERA DO GELO[/COLOR][COLOR green] || [/COLOR][COLOR white]COLEÇÃO [/COLOR]</name>
+<thumbnail>https://i.ibb.co/NsJjmK4/gelo-ico.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-COLECOES/main/A-ERA-DO%20GELO</externallink>
+<fanart>https://i.ibb.co/jVPjdWR/gelo.jpg</fanart>
+<info>[COLOR green]|[/COLOR]- Se a tua espécia continuar, bata as mãos! -[COLOR red]|[/COLOR]</info>
+</channel> 
+</channels>

@@ -67,6 +67,17 @@
 FILMES 2021
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Sempre em Frente[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/NmXJn0d/sempre-em-frente-on.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/SEMPRE-EM-FRENTE</externallink>
+<fanart>https://i.ibb.co/gJXX0TJ/sempre-em-frente-on-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Drama[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Johnny é um jornalista de rádio que viaja pelo país entrevistando várias crianças sobre seus pensamentos a respeito de seu mundo e seu futuro[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Instinto Assassino[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://i.ibb.co/XxM58Bw/instinto-assassino-on.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/INSTINTO-ASSASSINO</externallink>

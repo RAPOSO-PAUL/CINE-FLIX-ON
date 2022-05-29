@@ -15,3 +15,12 @@
 <info>[COLOR green]|[/COLOR]- Se a tua espécia continuar, bata as mãos! -[COLOR red]|[/COLOR]</info>
 </channel> 
 </channels>
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]MARVEL[/COLOR][COLOR green] || [/COLOR][COLOR white]COLEÇÃO [/COLOR]</name>
+<thumbnail>https://i.ibb.co/1qFJVFB/7-B3-C521-E-423-C-4-A83-9687-C30-EF5-D50-EAE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-COLECOES/main/MARVEL</externallink>
+<fanart>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/MARVEL</fanart>
+<info>[COLOR green]|[/COLOR]- Os Heróis mais poderosos da terra... -[COLOR red]|[/COLOR]</info>
+</channel> 
+</channels>

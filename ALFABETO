@@ -26,6 +26,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]G-H[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/FV6VLXv/g-h-on.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-ALFABETO/main/G-H</externallink>
+<fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
+<info>[COLOR green]|[/COLOR]- Lista dos Filmes de G a H -[COLOR red]|[/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]I-J[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://i.ibb.co/jRyD86g/i-j-on.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-ALFABETO/main/I-J</externallink>

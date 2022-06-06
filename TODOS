@@ -100,6 +100,17 @@
 FILMES 2021
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Felix e o Tesouro de Morgan[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/vVqM8h6/feliz-on.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/FELIX-E-O-TESOURO-DE-MORGAN</externallink>
+<fanart>https://i.ibb.co/3kg313S/feliz-on-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Aproveitando a ausência da mãe para partir em um cruzeiro para descansar e relaxar, Félix, de 12 anos, sai em busca de seu pai, um pescador que desapareceu no mar dois anos antes.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Sempre em Frente[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://i.ibb.co/NmXJn0d/sempre-em-frente-on.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/SEMPRE-EM-FRENTE</externallink>

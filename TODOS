@@ -275,6 +275,17 @@ FILMES 2012
 FILMES 2008
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]007: Quantum Of Solace[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/Hn8Y8VG/007-sollace-on.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/007-QUANTUM-OF-SOLACE</externallink>
+<fanart>https://i.ibb.co/prdk4ZK/007-sollace-on-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2008[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Ação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Após a morte de Vesper Lynd, James Bond faz com que sua próxima missão seja pessoal. A caçada àqueles envolvidos na morte da mulher de sua vida o leva ao encontro do cruel empresário Dominic Greene, que faz parte da organização que coagiu Vesper. Bond descobre que Greene planeja obter o controle total de um recurso natural vital e deve enfrentar perigo e traição para frustrar o plano.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Galinha Pintadinha 1-2-3-4[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://i.ibb.co/yV9nKF5/galinha-pintadinha-on.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/GALINHA-PINTADINHA-1-2-3-4</externallink>

@@ -1,5 +1,5 @@
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]FILMES[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<channel><name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/0XhTBkm/Filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON/main/CATEGORIAS</externallink>
 <fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart><info> 
@@ -9,7 +9,7 @@
 </channels>
 
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]SERIES[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<channel><name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/W6CWSPq/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-TEMPORADAS/main/SERIES-ACESSOS</externallink>
 <fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart><info> 
@@ -19,7 +19,7 @@
 </channels>
 
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]INFANTIL[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<channel><name>[B][COLOR lime]●[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/8cVYPD8/infantil-on.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/INFANTIL-IDADES/main/INFANTIL-ON</externallink>
 <fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart><info> 
@@ -29,11 +29,11 @@
 </channels>
 
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]DOAÇÃO - PIX: 21998380772 | NOS AJUDE A CONTINUAR COM ESTE PROJETO[/COLOR][/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<channel><name>[B][COLOR lime]●[/COLOR] [COLOR white]DOAÇÃO - PIX: lifeplay584@gmail.com | NOS AJUDE A CONTINUAR COM ESTE PROJETO[/COLOR][/B]</name>
 <thumbnail>https://images2.imgbox.com/0a/dd/k03HFznm_o.png</thumbnail>
 <externallink></externallink>
 <fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart><info> 
 
-[COLOR grenn]|[/COLOR]- PIX: 21998380772 | NOS AJUDE A CONTINUAR COM ESTE PROJETO -[COLOR red]|[/COLOR]</info>
+[COLOR grenn]|[/COLOR]- PIX: lifeplay584@gmail.com | NOS AJUDE A CONTINUAR COM ESTE PROJETO -[COLOR red]|[/COLOR]</info>
 </channel>
 </channels>

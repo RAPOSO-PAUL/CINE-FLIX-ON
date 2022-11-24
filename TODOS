@@ -320,6 +320,17 @@
 FILMES 2021
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]O Lobo e o Leão[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/n1zsPs6/LL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/O-LOBO-E-O-LEAO</externallink>
+<fanart>https://i.ibb.co/dJd63xr/LL-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Aventura[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Um filhote de lobo e um filhote de leão perdidos são resgatados por uma garota no coração do deserto canadense. A amizade deles mudará suas vidas para sempre.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Felix e o Tesouro de Morgan[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://i.ibb.co/vVqM8h6/feliz-on.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/FELIX-E-O-TESOURO-DE-MORGAN</externallink>

@@ -521,6 +521,17 @@ FILMES 2012
 FILMES 2010
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Homem de Ferro 2[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/6WmXFmn/ferro2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/HOMEM-DE-FERRO-2</externallink>
+<fanart>https://i.ibb.co/Ypwcq37/ferro2-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2010[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Heróis[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Predadores[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://i.ibb.co/qJrHS9b/Predadores-elementum.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-FILMES/main/PREDADORES</externallink>

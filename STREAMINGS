@@ -1,4 +1,13 @@
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]APPLE TV+[/COLOR][COLOR green] || [/COLOR][COLOR white]STREAMINGS [/COLOR]</name>
+<thumbnail>https://i.ibb.co/cb9m1RY/aplee-tv-fanart.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-STREAMINGS/main/APPLE-TV%2B</externallink>
+<fanart>https://i.ibb.co/8sVJzBG/aplee-tv.png</fanart>
+<info>[COLOR green]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - Apple TV+ é um serviço de streaming de vídeo sob demanda anunciado pela Apple Inc. em 2019 durante o seu evento especial de 25 de março realizado no Steve Jobs Theater. -[COLOR yellow]|[/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]DISNEY PLUS[/COLOR][COLOR green] || [/COLOR][COLOR white]STREAMINGS [/COLOR]</name>
 <thumbnail>https://i.ibb.co/dghvWBM/disney-plus.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-STREAMINGS/main/DISNEY-PLUS</externallink>

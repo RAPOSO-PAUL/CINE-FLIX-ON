@@ -7,3 +7,27 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2111753471.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="Canais Abertos", Rede TV
 https://stmv7.samcast.com.br/playredetvmais/playredetvmais/chunklist_w1322263453.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="Canais Abertos", Bons Tempos
+https://stmv1.srvif.com/canal29/canal29/chunklist_w385942839.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Canais Abertos", Anime TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w768804437.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="Canais Abertos", Jovem Pan
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="Canais Abertos", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="Canais Abertos", Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w969557275.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="Canais Abertos", Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_e127caf2-93e8-46ab-8457-be4d2744244b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="Canais Abertos", Tv Clássicos
+https://stmv1.srvif.com/canal29/canal29/chunklist_w796927762.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="Canais Abertos", Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1181042937.m3u8

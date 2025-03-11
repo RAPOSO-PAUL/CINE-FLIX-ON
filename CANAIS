@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://gcmais.com.br/wp-content/uploads/2025/02/flamengo-vasco-onde-assistir.jpeg" group-title="Canais Abertos", Flamengo x Vasco #1
-https://new.m3u8.one/sportv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2XRnWnB/record-removebg-preview.png" group-title="Canais Abertos", RECORD
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="Canais Abertos", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1727652356.m3u8

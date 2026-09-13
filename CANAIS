@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2XRnWnB/record-removebg-preview.png" group-title="Canais Abertos", RECORD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99TShMqm/Spor-TV-logo-2016.png" group-title="Canais Abertos", SPORTV - 1ª OPÇÃO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99TShMqm/Spor-TV-logo-2016.png" group-title="Esportes", SPORTV - 1ª OPÇÃO
 https://8a5dd78aadea6ffc984bda22064adb92.s21-cloudfront-net.lat/nossoplayer/f5ba770ef883f760d5a8d0ea08f1f95d/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99TShMqm/Spor-TV-logo-2016.png" group-title="Canais Abertos", SPORTV - 2ª OPÇÃO

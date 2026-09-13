@@ -17,14 +17,5 @@ https://8a5dd78aadea6ffc984bda22064adb92.s21-cloudfront-net.lat/nossoplayer/6033
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTLr0hZR/sbt-removebg-preview.png" group-title="Canais Abertos", SBT - OPÇÃO 2
 https://4476b929e30dd0c4e8bdbcc82c6ba23a.s21-cloudfront-net.lat/embedtv/806ec7279fe0d67e23914f0a224c93a6/file.txt
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="Canais Abertos", Jovem Pan
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="Canais Abertos", Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="Canais Abertos", Rede Manchete
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w969557275.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="Religioso", Universal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvQTtcFs/universal-removebg-preview.png" group-title="Religioso", Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_e127caf2-93e8-46ab-8457-be4d2744244b.m3u8

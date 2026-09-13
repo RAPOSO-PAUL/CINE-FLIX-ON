@@ -2,8 +2,11 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2XRnWnB/record-removebg-preview.png" group-title="Canais Abertos", RECORD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Canais Abertos", SPORTV
-https://99a.pricesaskeloadsc.com:443/global/sporttvbr1/index.m3u8?token=cd010f661de12db53e8f6b625db1a72a3a12a3ee-c8-1741923918-1741891518
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Canais Abertos", SPORTV - 1ª OPÇÃO
+https://8a5dd78aadea6ffc984bda22064adb92.s21-cloudfront-net.lat/nossoplayer/f5ba770ef883f760d5a8d0ea08f1f95d/file.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Canais Abertos", SPORTV - 2ª OPÇÃO
+https://4476b929e30dd0c4e8bdbcc82c6ba23a.s21-cloudfront-net.lat/embedtv/fc533a2b0ef88db69393b446cbbe9b13/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3NQR0K/ESPN-Logo.png" group-title="Canais Abertos", ESPN
 https://reidoscanais.app/embed/?id=espn

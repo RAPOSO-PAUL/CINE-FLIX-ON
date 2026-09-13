@@ -5,10 +5,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99TShMqm/Spor-TV-logo-2016.png" group-title="Esportes", SPORTV - 1ª OPÇÃO
 https://8a5dd78aadea6ffc984bda22064adb92.s21-cloudfront-net.lat/nossoplayer/f5ba770ef883f760d5a8d0ea08f1f95d/file.txt
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99TShMqm/Spor-TV-logo-2016.png" group-title="Canais Abertos", SPORTV - 2ª OPÇÃO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99TShMqm/Spor-TV-logo-2016.png" group-title="Esportes", SPORTV - 2ª OPÇÃO
 https://4476b929e30dd0c4e8bdbcc82c6ba23a.s21-cloudfront-net.lat/embedtv/fc533a2b0ef88db69393b446cbbe9b13/file.txt
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3NQR0K/ESPN-Logo.png" group-title="Canais Abertos", ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3NQR0K/ESPN-Logo.png" group-title="Esportes", ESPN
 https://4476b929e30dd0c4e8bdbcc82c6ba23a.s21-cloudfront-net.lat/embedtv/88d7f8527defe3f9f5bf3baac921a839/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTLr0hZR/sbt-removebg-preview.png" group-title="Canais Abertos", SBT - OPÇÃO 1
@@ -16,15 +16,6 @@ https://8a5dd78aadea6ffc984bda22064adb92.s21-cloudfront-net.lat/nossoplayer/6033
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTLr0hZR/sbt-removebg-preview.png" group-title="Canais Abertos", SBT - OPÇÃO 2
 https://4476b929e30dd0c4e8bdbcc82c6ba23a.s21-cloudfront-net.lat/embedtv/806ec7279fe0d67e23914f0a224c93a6/file.txt
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="Canais Abertos", Rede TV
-https://stmv7.samcast.com.br/playredetvmais/playredetvmais/chunklist_w1322263453.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="Canais Abertos", Bons Tempos
-https://stmv1.srvif.com/canal29/canal29/chunklist_w385942839.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Canais Abertos", Anime TV
-https://stmv1.srvif.com/animetv/animetv/chunklist_w768804437.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="Canais Abertos", Jovem Pan
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
@@ -35,11 +26,5 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="Canais Abertos", Rede Manchete
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w969557275.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="Canais Abertos", Universal
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="Religioso", Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_e127caf2-93e8-46ab-8457-be4d2744244b.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="Canais Abertos", Tv Clássicos
-https://stmv1.srvif.com/canal29/canal29/chunklist_w796927762.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="Canais Abertos", Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1181042937.m3u8

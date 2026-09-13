@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2XRnWnB/record-removebg-preview.png" group-title="Canais Abertos", RECORD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Canais Abertos", SPORTV - 1ª OPÇÃO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99TShMqm/Spor-TV-logo-2016.png" group-title="Canais Abertos", SPORTV - 1ª OPÇÃO
 https://8a5dd78aadea6ffc984bda22064adb92.s21-cloudfront-net.lat/nossoplayer/f5ba770ef883f760d5a8d0ea08f1f95d/file.txt
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Canais Abertos", SPORTV - 2ª OPÇÃO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99TShMqm/Spor-TV-logo-2016.png" group-title="Canais Abertos", SPORTV - 2ª OPÇÃO
 https://4476b929e30dd0c4e8bdbcc82c6ba23a.s21-cloudfront-net.lat/embedtv/fc533a2b0ef88db69393b446cbbe9b13/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3NQR0K/ESPN-Logo.png" group-title="Canais Abertos", ESPN
 https://4476b929e30dd0c4e8bdbcc82c6ba23a.s21-cloudfront-net.lat/embedtv/88d7f8527defe3f9f5bf3baac921a839/file.txt
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34848ed178e03783640b8cc7a653b3c9.webp" group-title="Canais Abertos", SBT - OPÇÃO 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tTLr0hZR/sbt-removebg-preview.png" group-title="Canais Abertos", SBT - OPÇÃO 1
 https://8a5dd78aadea6ffc984bda22064adb92.s21-cloudfront-net.lat/nossoplayer/603329e9712ab32d119a1bceade9a10a/file.txt
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34848ed178e03783640b8cc7a653b3c9.webp" group-title="Canais Abertos", SBT - OPÇÃO 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tTLr0hZR/sbt-removebg-preview.png" group-title="Canais Abertos", SBT - OPÇÃO 2
 https://4476b929e30dd0c4e8bdbcc82c6ba23a.s21-cloudfront-net.lat/embedtv/806ec7279fe0d67e23914f0a224c93a6/file.txt
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="Canais Abertos", Rede TV

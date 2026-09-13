@@ -20,6 +20,9 @@ https://4476b929e30dd0c4e8bdbcc82c6ba23a.s21-cloudfront-net.lat/embedtv/74389fc4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLvV164k/ESPN-2-removebg-preview.png" group-title="Esportes", ESPN 2 - OPÇÃO 2
 https://11e1c7e8dd36f6c9c248881928393727.s21-cloudfront-net.lat/nossoplayer/c32eac0553e01f7a2fa338f83a06db62/file.txt
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W41zqpPH/PREMIERE-FC.png" group-title="Esportes", PREMIERE
+https://7b5b23f4aadf9513306bcd59afb6e4c9.s21-cloudfront-net.lat/embedtv/a92e060e816b6047fef3464971e047cb/file.txt
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD6FTvMB/PREMIERE-2-DEF.png" group-title="Esportes", PREMIERE 2 - OPÇÃO 1
 https://7b5b23f4aadf9513306bcd59afb6e4c9.s21-cloudfront-net.lat/embedtv/a588b62aa166bfa8317bdc3ea5611e1b/file.txt
 
